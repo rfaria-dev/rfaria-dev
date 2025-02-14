@@ -4,7 +4,7 @@
 **`FullStack Developer`**
  
 
-My name is Roger Renan Faria, I’m 30 years old, and I’m from São Bento do Sapucaí. Currently, I’m in my final semester of Systems Analysis and Development at Descomplica University, and I algo have a bachelor's degree in Production Engineering. I’m passionate about technology and always eager to take on new challenges.
+My name is Roger Renan Faria, I’m 30 years old, and I’m from São Bento do Sapucaí. Currently, I’m in my final semester of Systems Analysis and Development at Descomplica University, and I also have a bachelor's degree in Production Engineering. I’m passionate about technology and always eager to take on new challenges.
 
 🌱 I’m currently learning ...
 
